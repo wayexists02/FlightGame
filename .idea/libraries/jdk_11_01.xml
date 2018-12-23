@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="jdk-11.01">
+    <ANNOTATIONS>
+      <root url="file://D:/Java/jdk-11.0.1" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://D:/Java/jdk-11.0.1" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://D:/Java/jdk-11.0.1" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://D:/Java/jdk-11.0.1" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://D:/Java/jdk-11.0.1" />
+    </SOURCES>
+    <jarDirectory url="file://D:/Java/jdk-11.0.1" recursive="false" />
+    <jarDirectory url="file://D:/Java/jdk-11.0.1" recursive="false" type="SOURCES" />
+  </library>
+</component>
